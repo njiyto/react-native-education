@@ -1,6 +1,6 @@
 # Sport Tracker
 
-It's my education project.
+It's my educational project.
 
 ### Fast start
 ```sh
